@@ -27,6 +27,14 @@ The dataset contains information related to:
 
 ## Model Evaluation
 The models were trained and evaluated using appropriate performance metrics to compare their performance.
+### Accuracy Results
+
+| Model | Accuracy |
+|---|---:|
+| Decision Tree | 33.75% |
+| Random Forest | 34.29% |
+
+Random Forest achieved a slightly higher accuracy than the Decision Tree model.
 
 ## Project Objective
 The main objective of this project is to apply Machine Learning techniques to EV charging station data and identify patterns related to charging demand and grid load.
