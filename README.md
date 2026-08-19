@@ -1,7 +1,18 @@
 # Machine Learning Project
 
 ## Project Overview
-This project focuses on applying Machine Learning techniques to a dataset using Python.
+This project uses Machine Learning techniques to analyze EV charging station usage and grid load data.
+
+## Dataset
+The dataset contains information related to:
+- Vehicles charged
+- Average charging duration
+- Energy dispensed
+- Grid load
+- Renewable energy usage
+- Charging station type
+- City zone
+- Peak load risk
 
 ## Technologies Used
 - Python
@@ -15,7 +26,7 @@ This project focuses on applying Machine Learning techniques to a dataset using 
 - Random Forest
 
 ## Model Evaluation
-The models were trained and evaluated using suitable performance metrics.
+The models were trained and evaluated using appropriate performance metrics to compare their performance.
 
-## Dataset
-The dataset used for this project is included in this repository.
+## Project Objective
+The main objective of this project is to apply Machine Learning techniques to EV charging station data and identify patterns related to charging demand and grid load.
